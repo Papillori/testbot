@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "jest": "^23.6.0"
+    "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "^11.4.2",
