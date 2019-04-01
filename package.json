@@ -11,7 +11,7 @@
     "test": "jest tests/"
   },
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
     "start": "node bot.js"
   },
   "dependencies": {
