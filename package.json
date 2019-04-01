@@ -8,11 +8,11 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "test": "jest tests/"
+    "test": "jest tests/",
+        "start": "node bot.js"
   },
   "devDependencies": {
-    "jest": "^23.6.0",
-    "start": "node bot.js"
+    "jest": "^23.6.0"
   },
   "dependencies": {
     "discord.js": "^11.4.2",
